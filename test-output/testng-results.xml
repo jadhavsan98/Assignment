@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45734" started-at="2020-10-27T04:05:14Z" finished-at="2020-10-27T04:05:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45734" started-at="2020-10-27T04:05:14Z" finished-at="2020-10-27T04:05:59Z">
+      <class name="com.filipkart.script.SearchProdcutOnFlipkart">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.filipkart.script.SearchProdcutOnFlipkart@523884b2]" name="openUrl" is-config="true" duration-ms="36684" started-at="2020-10-27T04:05:14Z" finished-at="2020-10-27T04:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="searchTheProduct()[pri:0, instance:com.filipkart.script.SearchProdcutOnFlipkart@523884b2]" name="searchTheProduct" duration-ms="9000" started-at="2020-10-27T04:05:50Z" finished-at="2020-10-27T04:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTheProduct -->
+      </class> <!-- com.filipkart.script.SearchProdcutOnFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
